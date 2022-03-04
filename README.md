@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayafor-code
-- 👀 I’m interested in DevOps and Software development.
-- 🌱 I’m currently learning DevOps and Programming.
+- 👋 Hi, I’m Ay@for-code
+- 👀 I’m a self-motivated, passionate IT professional.
+- 🌱 I’m currently a DevOps Engineer and Python/Django Expert.
 - 💞️ I’m looking to collaborate on DevOps and Programming.
 - 📫 How to reach me: ayafor.byte@gmail.com
 
